@@ -1,6 +1,6 @@
 // defines the cache for the logic and js - rename string
 var CACHE_NAME = "my-site-cache-v1";
-// defines the cache for the data -rename string
+// defines the cache for the data -rename string on line 4 and line 29
 const DATA_CACHE_NAME = "data-cache-v1"; 
 
 var urlsToCache = [
